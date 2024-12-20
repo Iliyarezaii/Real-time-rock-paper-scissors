@@ -24,7 +24,7 @@ To run this game, you'll need **Python 3.x** and the following libraries:
 
 ### Run
 
-To Rumm the code, use this code in terminal:
+To Run the code, use this code in terminal:
 
 ```bash
 python -m streamlit run game.py
