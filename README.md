@@ -27,4 +27,4 @@ To run this game, you'll need **Python 3.x** and the following libraries:
 To Rumm the code, use this code in terminal:
 
 ```bash
-python -m streamlit run Advance rock paper scissors.py
+python -m streamlit run game.py
